@@ -1,0 +1,39 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.bg{
+    background-color:#F8F6F2 ;
+}
+.text{
+    color:#F8F6F2 ;
+}
+.gold
+{
+color: #C6A769;
+}
+.ggold{
+    background-color:#C6A769 ;
+}
+.dark{
+background-color: #181818;
+}
+.gray{
+color: #6B7280;
+}
+.cream{
+background-color: #FDFBF7;
+}
+.light-gray{
+color: #EAE7E2;
+}
+.gold:hover{
+color:#D4B47A;
+}
+.hero-titles{
+    font-family: 'Cormorant Garamond', serif;
+}
+.hero{
+    background-image: url('download\ (5\).jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
